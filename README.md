@@ -11,6 +11,9 @@ Latest version has been tested on mail server like 126, 163. If you have some ot
 [NPM](https://www.npmjs.com/~sunzhongmou)
 [GitHub](https://github.com/sunzhongmou)
 [简书](http://www.jianshu.com/u/e41dcab0d8ce)
+[Blogger](https://sunzhongmou.blogspot.tw/)
+[Youtube](https://www.youtube.com/channel/UCtEfD4Ut7_0Btqx2Kw104VA)
+[优酷](http://i.youku.com/ihakula?spm=a2hzp.8244740.0.0)
 
 ![Show Result](http://opzmk10r6.bkt.clouddn.com/result.png)
 
