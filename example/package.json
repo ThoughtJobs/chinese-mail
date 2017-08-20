@@ -1,0 +1,14 @@
+{
+  "name": "chinese-mail-example",
+  "version": "1.0.0",
+  "description": "Example for use package chinese-mail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Wayde Sun <wayde.sun@gmail.com> (https://www.sunzhongmou.com)",
+  "license": "ISC"
+}

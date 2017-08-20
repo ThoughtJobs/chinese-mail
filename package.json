@@ -1,0 +1,31 @@
+{
+  "name": "chinese-mail",
+  "version": "0.1.6",
+  "description": "Easy to send mail with Chinese mail server, such as 126、163、qq, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunzhongmou/chinese-mail.git"
+  },
+  "keywords": [
+    "mail",
+    "chinese-mail",
+    "smtp",
+    "mail-server"
+  ],
+  "author": "Wayde Sun <wayde.sun@gmail.com> (https://www.sunzhongmou.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunzhongmou/chinese-mail/issues"
+  },
+  "homepage": "https://github.com/sunzhongmou/chinese-mail#readme",
+  "dependencies": {
+    "async": "1.5.2",
+    "nodemailer": "2.3.0",
+    "nodemailer-smtp-transport": "2.4.0",
+    "memory-cache": "^0.2.0"
+  }
+}
