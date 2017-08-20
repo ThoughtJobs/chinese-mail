@@ -7,7 +7,10 @@ Latest version has been tested on mail server like 126, 163. If you have some ot
 
 [微博](http://weibo.com/zmtech)
 [Tweet](https://twitter.com/szm_tech)
+[Facebook](https://www.facebook.com/wayde.sun.3)
 [NPM](https://www.npmjs.com/~sunzhongmou)
+[GitHub](https://github.com/sunzhongmou)
+[简书](http://www.jianshu.com/u/e41dcab0d8ce)
 
 ![Show Result](http://opzmk10r6.bkt.clouddn.com/result.png)
 
