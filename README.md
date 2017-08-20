@@ -1,12 +1,13 @@
 # chinese-mail
 Easy to send mail with Chinese mail server, such as 163, qq, etc.
 
-目前该版本 ***0.1.6*** 只测试过网易相关邮箱，工作正常。如果觉得好用，希望提供更多支持，请通过邮箱或以下方式联系我们。
+最新版本只测试过网易相关邮箱，工作正常。如果觉得好用，希望提供更多支持，请通过邮箱或以下方式联系我们。
 
-Current version ***0.1.6*** has been tested on mail server like 126, 163. If you have some other requirement, please contact us by mail or other ways below.
+Latest version has been tested on mail server like 126, 163. If you have some other requirement, please contact us by mail or other ways below.
 
 [微博](http://weibo.com/zmtech)
 [Tweet](https://twitter.com/szm_tech)
+[NPM](https://www.npmjs.com/~sunzhongmou)
 
 ![Show Result](http://opzmk10r6.bkt.clouddn.com/result.png)
 
@@ -32,3 +33,12 @@ chineseMail.sendMailBy126(
 
 ```
 
+### Others provided by us:
+
+*   [create-wechat-project](/package/create-wechat-project) - **v1.0.0**
+*   [json-editor-online](/package/json-editor-online) - **v1.0.0** - Command line tool for jsoneditoronline.cn
+*   [ri-zhi-yi](/package/ri-zhi-yi) - **v3.0.0** - NPM package for upload your log to https://www.rizhiyi.com/
+*   [chinese-mail](/package/chinese-mail) - **v0.1.6** - Easy to send mail with Chinese mail server, such as 126、163、qq, etc.
+*   [rizhiyi-example](/package/rizhiyi-example) - **v2.0.0** - Example project for using NPM ri-zhi-yi package
+*   [graphql-db](/package/graphql-db) - **v0.0.1** - Graphql webserver api with mongo storage and others
+*   [cloud-object-storage](/package/cloud-object-storage) - **v3.0.1** - cloud object storage for QCloud, QiNiu and local
