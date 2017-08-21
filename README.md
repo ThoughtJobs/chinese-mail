@@ -5,6 +5,10 @@ Easy to send mail with Chinese mail server, such as 163, qq, etc.
 
 Latest version has been tested on mail server like 126, 163. If you have some other requirement, please contact us by mail or other ways below.
 
+
+[![微博](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E4%BB%B2%E8%B0%8B%E7%A7%91%E6%8A%80-brightgreen.svg)](http://weibo.com/zmtech)
+
+
 [微博](http://weibo.com/zmtech)
 [Tweet](https://twitter.com/szm_tech)
 [Facebook](https://www.facebook.com/wayde.sun.3)
