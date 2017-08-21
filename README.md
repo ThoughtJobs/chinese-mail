@@ -5,7 +5,7 @@ Easy to send mail with Chinese mail server, such as 163, qq, etc.
 
 Latest version has been tested on mail server like 126, 163. If you have some other requirement, please contact us by mail or other ways below.
 
-> 可通过以下方式联系我们：
+> 可通过以下方式联系我们(You can contact us the ways below)：
 
 [![微博](https://img.shields.io/badge/Weibo-仲谋科技-brightgreen.svg)](http://weibo.com/zmtech)
 [![Tweet](https://img.shields.io/badge/Tweet-仲谋科技-brightgreen.svg)](https://twitter.com/szm_tech)
