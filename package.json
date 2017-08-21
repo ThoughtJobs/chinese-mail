@@ -1,6 +1,6 @@
 {
   "name": "chinese-mail",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Easy to send mail with Chinese mail server, such as 126、163、qq, etc.",
   "main": "index.js",
   "scripts": {
