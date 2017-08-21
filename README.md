@@ -7,7 +7,7 @@ Latest version has been tested on mail server like 126, 163. If you have some ot
 
 > 可通过以下方式联系我们(You can contact us the ways below)：
 
-[![The official website](https://img.shields.io/badge/official_website-仲谋科技-brightgreen.svg)](https://www.sunzhongmou.com)
+[![The official website](https://img.shields.io/badge/Official_Website-仲谋科技-brightgreen.svg)](https://www.sunzhongmou.com)
 [![微博](https://img.shields.io/badge/Weibo-仲谋科技-brightgreen.svg)](http://weibo.com/zmtech)
 [![Tweet](https://img.shields.io/badge/Tweet-仲谋科技-brightgreen.svg)](https://twitter.com/szm_tech)
 [![NPM](https://img.shields.io/badge/NPM-仲谋科技-brightgreen.svg)](https://www.npmjs.com/~sunzhongmou)
