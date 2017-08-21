@@ -7,19 +7,14 @@ Latest version has been tested on mail server like 126, 163. If you have some ot
 
 > 可通过以下方式联系我们：
 
-[![微博](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E4%BB%B2%E8%B0%8B%E7%A7%91%E6%8A%80-brightgreen.svg)](http://weibo.com/zmtech)
+[![微博](https://img.shields.io/badge/Weibo-仲谋科技-brightgreen.svg)](http://weibo.com/zmtech)
 [![Tweet](https://img.shields.io/badge/Tweet-仲谋科技-brightgreen.svg)](https://twitter.com/szm_tech)
+[![NPM](https://img.shields.io/badge/NPM-仲谋科技-brightgreen.svg)](https://www.npmjs.com/~sunzhongmou)
+[![GitHub](https://img.shields.io/badge/GitHub-仲谋科技-brightgreen.svg)](https://github.com/sunzhongmou)
+[![简书](https://img.shields.io/badge/简书-仲谋科技-brightgreen.svg)](http://www.jianshu.com/u/e41dcab0d8ce)
+[![Youtube](https://img.shields.io/badge/Youtube-仲谋科技-brightgreen.svg)](https://www.youtube.com/channel/UCtEfD4Ut7_0Btqx2Kw104VA)
+[![优酷](https://img.shields.io/badge/优酷-仲谋科技-brightgreen.svg)](http://i.youku.com/ihakula?spm=a2hzp.8244740.0.0)
 
-
-[微博](http://weibo.com/zmtech)
-[Tweet](https://twitter.com/szm_tech)
-[Facebook](https://www.facebook.com/wayde.sun.3)
-[NPM](https://www.npmjs.com/~sunzhongmou)
-[GitHub](https://github.com/sunzhongmou)
-[简书](http://www.jianshu.com/u/e41dcab0d8ce)
-[Blogger](https://sunzhongmou.blogspot.tw/)
-[Youtube](https://www.youtube.com/channel/UCtEfD4Ut7_0Btqx2Kw104VA)
-[优酷](http://i.youku.com/ihakula?spm=a2hzp.8244740.0.0)
 
 ![Show Result](http://opzmk10r6.bkt.clouddn.com/result.png)
 
